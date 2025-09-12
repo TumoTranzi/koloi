@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/koloi/static/css/main.7976df7d.css",
+    "main.js": "/koloi/static/js/main.fc6d34d8.js",
+    "index.html": "/koloi/index.html",
+    "main.7976df7d.css.map": "/koloi/static/css/main.7976df7d.css.map",
+    "main.fc6d34d8.js.map": "/koloi/static/js/main.fc6d34d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7976df7d.css",
+    "static/js/main.fc6d34d8.js"
+  ]
+}
